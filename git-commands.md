@@ -57,7 +57,7 @@ Deve estar na raiz de um repositório versionado, o ideal é que seja criado dur
 ## .gitkeep
 Esse é um arquivo para versionar pastas que não possuem fonte ou asset, sendo assim, ao criar esse arquivo a pasta será versionada.
 
-Não é necessário inserir nenhum dado no arquivo para que ele esteja usável.
+Não é necessário inserir nenhum conteúdo no arquivo para que ele esteja funcional.
 ___
 ### Documentação oficial
 - [SCM](https://git-scm.com/)
